@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/hinh-nen-thien-nhien-phong-canh-dep-61_043200891.jpg);
+  height: 100vh;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/hinh-nen-thien-nhien-phong-canh-dep-86_043207162.jpg);
+  height: 100vh;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/wallpaper-4k-hinh-nen-4k-o-to-mau-xanh-cuc-dep_100016725.jpg);
+  height: 100vh;
+}
